@@ -13,6 +13,10 @@ public with sharing class FTR_AutomateSomething {
 	}
 
 	public static void method4() {
+
+	}
+
+	public static void method5() {
 		
 	}
 
