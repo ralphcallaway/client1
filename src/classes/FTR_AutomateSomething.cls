@@ -12,6 +12,10 @@ public with sharing class FTR_AutomateSomething {
 		
 	}
 
+	public static void method4() {
+		
+	}
+
 	@isTest
 	private static void testMethod1() {
 		system.assertEquals(1, 1);
